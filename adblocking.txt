@@ -1,3 +1,11 @@
 ! Title: adblocking
 coccoc.com##.card_type_2_padding.card_type_margin_bottom.card_type_bg_white.card_type_rounded.card_type_boxshadow.adsItem-gdJPL.adsItem-Qqs8g > div > div
 ||lh6.googleusercontent.com^
+animehay.work##.ads
+truyenqqko.com##.banner-content
+truyenqqko.com##.alert.alert-note
+truyenqqko.com##.home-intro-section
+truyenqqko.com##footer.light:nth-of-type(1)
+truyenqqko.com##.chapter_content > span.text-center:nth-of-type(1)
+truyenqqko.com##.chapter_content > span.text-center:nth-of-type(2)
+truyenqqko.com##.main_content > span.text-center:nth-of-type(1)
