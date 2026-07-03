@@ -13,9 +13,6 @@ animevietsub.love##.announcement
 animevietsub.love##.Footer
 www.bing.com###aitools
 www.bing.com###footer
-[class^="animehay]##[src*="\/ad_banner\/ball88\.gif\?v\=1\.5"]
-[class^="animehay]##[src*="\/ad_banner\/3bet\.gif\?v\=1\.8"]
-[class^="animehay]##[src*="\/ad_banner\/hdbet\.gif\?v\=2\.4"]
 www.bing.com##.b_poleContent
 animehay08.site###top-banner > div
 animehay08.site##div > div >
