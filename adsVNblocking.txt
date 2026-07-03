@@ -1,4 +1,4 @@
-! Title: adblocking
+! Title: adsVNblocking
 ||lh6.googleusercontent.com^
 truyenqqko.com##.banner-content
 truyenqqko.com##.alert.alert-note
