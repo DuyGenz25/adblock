@@ -1,4 +1,4 @@
-! Title: ADS blocking for search engine 
+! Title: ADS Blocking For Search Engine 
 
 ! brave
 search.brave.com##footer.svelte-jz8lnl > .column-layout.noscrollbar.svelte-1f8i7g0
